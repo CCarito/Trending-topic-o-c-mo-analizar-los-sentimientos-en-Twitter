@@ -9,6 +9,7 @@ dl-translate
 Numpy
 
 Instalación
+
 1 - Clona este repositorio en tu máquina local.
 
 git clone https://github.com/usuario/Trending-topic-o-cómo-analizar-los-sentimientos-en-Twitter.git
