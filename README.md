@@ -10,10 +10,15 @@ Numpy
 
 Instalación
 1 - Clona este repositorio en tu máquina local.
+
 git clone https://github.com/usuario/Trending-topic-o-cómo-analizar-los-sentimientos-en-Twitter.git
+
 2 - Navega al directorio del proyecto.
+
 cd Trending-topic-o-cómo-analizar-los-sentimientos-en-Twitter
+
 3 - Instala las dependencias.
+
 pip install -r requirements.txt
 
 Videografía
